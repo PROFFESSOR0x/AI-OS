@@ -1,3 +1,6 @@
+old readme 
+i will edit as soon 
+
 # Hydra OS 🐍
 
 A minimal x86 operating system built from scratch, featuring a custom bootloader pipeline, protected mode initialization, keyboard and framebuffer drivers, interrupt handling, and a built‑in Snake game.
